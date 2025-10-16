@@ -1,3 +1,3 @@
-ETH Zurich, Chair of Building Physics 
+ETH Zurich, Chair of Building Physics
 
-UdeS, Canada Research Chair tier II Multiscale Building Physics
+Université de Sherbrooke, Canada Research Chair tier II Multiscale Building Physics
